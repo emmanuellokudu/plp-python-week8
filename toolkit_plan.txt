@@ -1,0 +1,86 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+Project Name:
+Personal Mini-Toolkit
+
+Purpose:
+This program is a menu-driven Python toolkit that provides several small
+useful tools for the user.
+
+TOOLS
+
+1. Simple Calculator
+The calculator performs basic addition, subtraction, multiplication, and
+division using two numbers entered by the user.
+
+Concepts used:
+- Variables
+- input()
+- Numbers
+- Conditionals
+- f-strings
+- Basic calculations
+
+2. To-Do List
+The to-do list allows the user to add tasks, view tasks, and remove tasks
+while the program is running.
+
+Concepts used:
+- Lists
+- Loops
+- input()
+- Conditionals
+- append()
+- remove()
+- f-strings
+
+3. Number Guessing Game
+The number guessing game asks the user to guess a secret number and gives
+feedback until the correct number is guessed.
+
+Concepts used:
+- Variables
+- while loop
+- Conditionals
+- input()
+- int()
+- f-strings
+
+4. Name Formatter
+The name formatter asks the user for their name and displays it in a
+clean and properly formatted way.
+
+Concepts used:
+- Variables
+- input()
+- Strings
+- String methods
+- f-strings
+
+MENU TEXT
+
+========================================
+       PERSONAL MINI-TOOLKIT
+========================================
+
+1. Simple Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Name Formatter
+5. Quit
+
+Enter your choice:
+
+INVALID CHOICE MESSAGE
+
+Invalid choice. Please select an option from 1 to 5.
+
+START MESSAGE
+
+Welcome to the Personal Mini-Toolkit!
+Choose a tool from the menu to get started.
+
+GOODBYE MESSAGE
+
+Thank you for using the Personal Mini-Toolkit.
+Goodbye!
